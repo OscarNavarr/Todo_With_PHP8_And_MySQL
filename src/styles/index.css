@@ -1,0 +1,4 @@
+ 
+tr:nth-child(odd) td {
+  background-color: rgb(201, 197, 197);
+}
